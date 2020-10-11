@@ -40,3 +40,11 @@ void BFS(int s)
         }
     }
 }
+
+
+void func(){
+
+
+
+    return 1+2;
+}
