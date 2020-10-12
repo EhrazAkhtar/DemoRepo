@@ -39,12 +39,13 @@ void BFS(int s)
             }
         }
     }
+    cout<<"\n hoho ho look who we have here from windows ";
 }
 
 
 void func(){
-
-
-
     return 1+2;
+
+
+    cout<<"\n Lets add some content to this shit "
 }
