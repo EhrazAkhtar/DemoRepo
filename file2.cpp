@@ -65,3 +65,14 @@ int main()
 
 
 lets see if this comes over to you 
+
+
+python :: how()
+{
+
+
+	cout<<"merging it now ";
+	cout<<"\n Push it to the repoo nnow";
+
+	
+}
